@@ -1,1 +1,1 @@
-i'm [michael](http://gottacatchenall.github.io). i'm a postdoctoral researcher in computational ecology. i work on species distribution modeling using machine learning and computer vision, primarily in Julia and Python.
+👋 i'm [michael](http://gottacatchenall.github.io). i'm a postdoctoral researcher in computational ecology. i work on species distribution modeling using machine learning and computer vision, primarily in Julia and Python.

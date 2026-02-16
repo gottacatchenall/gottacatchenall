@@ -1,1 +1,3 @@
 👋 i'm [michael](http://gottacatchenall.github.io). i'm a postdoctoral researcher in computational ecology. i work on species distribution modeling using machine learning and computer vision, primarily in Julia and Python.
+
+i'm a contributor to the [SpeciesDistributionToolkit.jl](https://github.com/PoisotLab/SpeciesDistributionToolkit.jl) Julia package for species distribution modeling, and the primary developer of [SpeciesInteracitonSamplers.jl](https://github.com/gottacatchenall/SpeciesInteractionSamplers.jl), a package for simulating process-based models of the realization and detection of spatiotemporally variable species interaction networks. 
